@@ -6,7 +6,8 @@
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/Dutchycorp_claimDone_close.user.js
 // @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/master/Dutchycorp_claimDone_close.user.js
-// @match        *autofaucet.dutchycorp.space/shortlinks-wall.php?*key=*
+// @include      *autofaucet.dutchycorp.space/shortlinks-wall.php?*key=*
+// @include      *autofaucet.dutchycorp.space/shortlinks-wall.php*already_done*
 // @icon         https://www.google.com/s2/favicons?domain=dutchycorp.space
 // @run-at       document-start
 // @grant        window.close
