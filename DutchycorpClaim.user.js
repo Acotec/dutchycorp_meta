@@ -5,7 +5,6 @@
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/DutchycorpClaim.user.js
 // @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/master/DutchycorpClaim.user.js
-//// @require      http://code.jquery.com/jquery-3.5.1.min.js
 // @connect      gist.github.com
 // @connect      gist.githubusercontent.com
 // @connect      api.github.com
