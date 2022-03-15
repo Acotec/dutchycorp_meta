@@ -1,3 +1,4 @@
+// ==UserScript==
 // @name         DutchycorpClaim
 // @namespace    https://github.com/Acotec
 // @version      1.1
