@@ -1,5 +1,5 @@
 // @name         DutchycorpClaim
-// @namespace    https://github.com/Acotec/dutchycorp
+// @namespace    https://github.com/Acotec
 // @version      1.1
 // @description  AutomateButtons
 // @author       Acotec
