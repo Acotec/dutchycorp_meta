@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DutchycorpClaim
 // @namespace    https://github.com/Acotec
-// @version      1.1
+// @version      1.2
 // @description  AutomateButtons
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/DutchycorpClaim.user.js
@@ -14,6 +14,7 @@
 // @include      *autofaucet.dutchycorp.space/shortlinks-wall*
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @grant        GM_openInTab
 // @grant        GM_getResourceText
 // @grant        unsafeWindow
 // @grant        window.close
