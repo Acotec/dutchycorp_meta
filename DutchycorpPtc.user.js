@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DutchycorpPtc
 // @namespace    Acot
-// @version      0.2
+// @version      0.2.1
 // @description  view ptc and close when done 
 // @author       Acotec
 // @match        https://autofaucet.dutchycorp.space/ptc/wall.php*
@@ -14,5 +14,6 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        window.close
+// @grant        GM_registerMenuCommand
 // ==/UserScript==
 (function() {})();
