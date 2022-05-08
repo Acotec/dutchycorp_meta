@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dutchycorp(Login)
 // @namespace    Acot
-// @version      0.1
+// @version      0.2
 // @description  Fill in details on login page
 // @author       Acot
 // @include      https://autofaucet.dutchycorp.space/login.php*
@@ -9,6 +9,6 @@
 // @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/master/Dutchycorp(Login).user.js
 // @require      https://github.com/Acotec/dutchycorp_script/raw/master/Dutchycorp(Login).user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dutchycorp.space
-// @run-at       document-end
+// @run-at       document-start
 // ==/UserScript==
 (function() {})();
