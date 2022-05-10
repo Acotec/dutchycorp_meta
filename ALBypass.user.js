@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ALBypass_Dutchy
 // @namespace    https://github.com/Acotec/dutchy
-// @version      0.2.2
+// @version      0.2.3
 // @description  Bypass URL links
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/ALBypass.user.js
