@@ -19,7 +19,7 @@
 // @grant        GM_getResourceText
 // @grant        GM_addElement
 // @grant        GM_registerMenuCommand
-// @run-at       document-idle
+//// @run-at       document-idle
 // @run-at       document-start
 // @connect      api.yuumari.com
 // @connect      yuumari.com
