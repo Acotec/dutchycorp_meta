@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PageLoaded
 // @namespace    Acotec
-// @version      0.2
+// @version      0.3
 // @description  Add loaded to page title when page load
 // @author       Acot
 // @match       *://*/*
@@ -10,5 +10,8 @@
 // @require      https://github.com/Acotec/dutchycorp_script/raw/master/PageLoaded.user.js
 // @run-at       document.start
 // @grant        window.close
+// @grant        window.onurlchange
+// @grant        unsavewindow
+// @noframes
 // ==/UserScript==
 (function(){})();
