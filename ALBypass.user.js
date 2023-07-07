@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ALBypass_Dutchy
-// @namespace    https://github.com/Acotec/dutchy
-// @version      0.2.3
+// @namespace    https://github.com/Acotec/dutchycorp
+// @version      0.2.5
 // @description  Bypass URL links
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/ALBypass.user.js
@@ -19,7 +19,6 @@
 // @grant        GM_getResourceText
 // @grant        GM_addElement
 // @grant        GM_registerMenuCommand
-//// @run-at       document-idle
 // @run-at       document-start
 // @connect      api.yuumari.com
 // @connect      yuumari.com
@@ -27,7 +26,7 @@
 // @connect      gist.github.com
 // @connect      gist.githubusercontent.com
 // @noframes
-// @nocompat    Chrome
-// @require    https://github.com/Acotec/dutchycorp_script/raw/master/ALBypass.user.js
+// @nocompat     Chrome
+// @require   https://github.com/Acotec/dutchycorp_script/raw/master/ALBypass.user.js
 // ==/UserScript==
-(function () {})();
+(function() {})();
