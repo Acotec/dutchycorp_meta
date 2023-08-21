@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DutchycorpClaim
 // @namespace    https://github.com/Acotec
-// @version      1.2
+// @version      1.3
 // @description  AutomateButtons
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/DutchycorpClaim.user.js
