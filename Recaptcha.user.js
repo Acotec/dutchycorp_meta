@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         ReCaptchaClicker
+// @name         Recaptcha Solver
 // @namespace    Acotec
-// @version      2.5
-// @description  Recaptcha Keyboard Shortcut Clicker Solver in Browser
-// @author       Acot (credit to satology)
-// @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/ReCaptchaClicker.user.js
-// @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/master/ReCaptchaClicker.user.js
-// @require      https://github.com/Acotec/dutchycorp_script/raw/master/ReCaptchaClicker.user.js
-// @require      https://cdn.jsdelivr.net/npm/@violentmonkey/shortcut@1
-// @match        https://autofaucet.dutchycorp.space/*
-// @match        *://*/recaptcha/api2/anchor*
+// @version      2.4
+// @description  Recaptcha Solver in Browser
+// @author       Acot (credit to engageub)
+// @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/Recaptcha.user.js
+// @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/Recaptcha.user.js
+// @match        *://*/recaptcha/*
+// @connect      pythonanywhere.com
+// @grant        GM_xmlhttpRequest
+// @grant        GM_registerMenuCommand
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @grant        GM_addValueChangeListener
+// @require      https://github.com/Acotec/autofcb_script/raw/master/Recaptcha.user.js
 // ==/UserScript==
