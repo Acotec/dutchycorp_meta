@@ -4,8 +4,8 @@
 // @version      0.1.2
 // @description  Refresh page after every 1minute for 3time and stop
 // @author       Acotec
-// @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/ReloadShortlinkPage.user.js
-// @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/ReloadShortlinkPage.user.js
+// @updateURL    https://github.com/Acotec/autofcb_meta/raw/root/ReloadShortlinkPage.user.js
+// @downloadURL  https://github.com/Acotec/autofcb_meta/raw/root/ReloadShortlinkPage.user.js
 // @match        *://*/*
 // @grant        GM_addElement
 // @grant        GM_setValue
@@ -15,6 +15,6 @@
 // @grant        window.close
 // @noframes
 // @run-at       document-start
-// @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(ReloadShortlinkPage).user.js
+// @require      https://github.com/Acotec/autofcb_script/raw/root/AutoFCB(ReloadShortlinkPage).user.js
 // ==/UserScript==
 (function(){})();

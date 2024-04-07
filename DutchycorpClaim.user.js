@@ -4,8 +4,8 @@
 // @version      1.4
 // @description  AutomateButtons
 // @author       Acotec
-// @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/master/DutchycorpClaim.user.js
-// @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/master/DutchycorpClaim.user.js
+// @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/root/DutchycorpClaim.user.js
+// @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/root/DutchycorpClaim.user.js
 // @connect      gist.github.com
 // @connect      gist.githubusercontent.com
 // @connect      api.github.com
@@ -21,6 +21,6 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_registerMenuCommand
 // @noframes
-// @require      https://github.com/Acotec/dutchycorp_script/raw/master/DutchycorpClaim.user.js
+// @require      https://github.com/Acotec/dutchycorp_script/raw/root/DutchycorpClaim.user.js
 // ==/UserScript==
 (function () {})();
