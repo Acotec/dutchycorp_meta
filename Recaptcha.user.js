@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Recaptcha Solver
 // @namespace    Acotec
-// @version      2.4
+// @version      2.4.1
 // @description  Recaptcha Solver in Browser
 // @author       Acot (credit to engageub)
 // @updateURL    https://github.com/Acotec/autofcb_meta/raw/root/Recaptcha.user.js
