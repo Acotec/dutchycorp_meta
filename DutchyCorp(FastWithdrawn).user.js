@@ -2,7 +2,7 @@
 // @name         DutchyCorp(FastWithdrawn)
 // @namespace    http://tampermonkey.net/
 // @description   withdraw
-// @version       0.4.1
+// @version       0.4.2
 // @author        Acotec
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/root/DutchyCorp(FastWithdrawn).user.js
 // @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/root/DutchyCorp(FastWithdrawn).user.js
