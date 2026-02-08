@@ -7,7 +7,7 @@
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/root/DutchyCorp(FastWithdrawn).user.js
 // @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/root/DutchyCorp(FastWithdrawn).user.js
 // @require      https://github.com/Acotec/dutchycorp_script/raw/root/DutchyCorp(FastWithdrawn).user.js
-// @match        https://autofaucet.dutchycorp.space/exchange.php*
+// @match        https://autofaucet.dutchycorp.space/convert.php*
 // @match        https://autofaucet.dutchycorp.space/your_balance.php*
 // @connect      autofaucet.dutchycorp.space
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dutchycorp.space
@@ -16,4 +16,5 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
+// @run-at       document-end
 // ==/UserScript==
