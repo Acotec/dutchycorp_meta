@@ -3,11 +3,12 @@
 // @description   withdraw
 // @version        0.2
 // @author        Acotec
-// @include       *autofaucet.dutchycorp.space/exchange.php*
+// @include       *autofaucet.dutchycorp.space/convert.php*
 // @updateURL    https://github.com/Acotec/dutchycorp_meta/raw/root/DutchyCorp(ExchangeCoin).user.js
 // @downloadURL  https://github.com/Acotec/dutchycorp_meta/raw/root/DutchyCorp(ExchangeCoin).user.js
 // @grant         GM_setValue
 // @grant         GM_getValue
+// @run-at       document-end
 // @require      https://github.com/Acotec/dutchycorp_script/raw/root/DutchyCorp(ExchangeCoin).user.js
 // ==/UserScript==
 (function(){})();
